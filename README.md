@@ -25,4 +25,10 @@ discord.gg/pz2g4Zs3Gc
 Siege is an aid for manual review, not an automated verdict. Findings should
 always be trusted or taken as the definitive truth. 
 
+
+Credits to @orbdiff for a lot of the code as well as obfuscation!
+https://github.com/Orbdiff
+
+
+
 ---
