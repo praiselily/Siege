@@ -3,7 +3,7 @@
 # SIEGE
 
 ### Catch cheaters in minutes.
-**tuffest scan tool thats (almost) fully free.**
+**tuffest scan tool thats fully free.**
 
 <br>
 
@@ -40,9 +40,9 @@ Start a scan while the player's game is open. A few minutes later you have one o
 
 ## Getting access
 
-Siege is **not publicly distributed.**
+Siege is **limited to members of my discord.**
 
-**To get access to the scanner, boost the Discord community:**
+**To get access to the scanner, all you have to do is join the server and retrieve your auth key from the chats:**
 
 <div align="center">
 
