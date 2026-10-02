@@ -32,7 +32,7 @@ Start a scan while the player's game is open. A few minutes later you have one o
 
 **2. Unlock.** Enter your session key.
 
-**3. Scan.** Wait 1-3 minutes for the scan to finish.
+**3. Scan.** Wait 10- 20 seconds for the scan to finish.
 
 **4. Decide.** Read the findings, expand what matters and make your call.
 
