@@ -63,7 +63,7 @@ Windows 10 or 11 (64-bit), administrator rights, and preferably the suspects gam
 <details>
 <summary><b>Does it modify the player's PC or game?</b></summary>
 <br>
-No files or identifiers are left digitally or on disk.
+No files or identifiers are left on disk.
 </details>
 
 <details>
